@@ -1,0 +1,27 @@
+{
+  "name": "wrapper-st",
+  "version": "1.0.0",
+  "description": "Simple wrapper for Smart Tribune API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smart-tribune",
+    "smart-tribune api",
+    "api",
+    "smart tribune",
+    "smarttribune",
+    "wrapper",
+    "wrapper api"
+  ],
+  "author": "Smart Tribune",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.1.4",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "node-wit": "^3.3.2",
+    "request": "^2.79.0"
+  }
+}
