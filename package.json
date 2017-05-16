@@ -1,6 +1,6 @@
 {
   "name": "wrapper-st",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Simple wrapper for Smart Tribune API",
   "main": "index.js",
   "scripts": {
