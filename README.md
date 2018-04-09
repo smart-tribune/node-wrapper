@@ -36,18 +36,18 @@ You are now ready to make some api calls !
 
 In your ```index.js``` file, you need to require the .js wrapper :
 ```
-var wrapper = require('wrapper-st');
+const wrapper = require('wrapper-st');
 ```
 
 as well as all required modules :
 ```
-var express = require('express');
-var request = require('request');
+const express = require('express');
+const request = require('request');
 ```
 
 Now, you have to setting up your API Key & API Secret :
 ```
-var config = {
+const config = {
     API_URL: "https://api.smart-tribune.com/v1.1",
     CONSUMER_KEY: "", // Insert your consumer key here
     CONSUMER_SECRET: "", // Insert your consumer secret here
